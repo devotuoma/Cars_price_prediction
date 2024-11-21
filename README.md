@@ -10,3 +10,4 @@ Objectives
 2. Build a linear regression model to predict the prices of used cars.
 3. Generate a set of insights and recommendations that will help the business.
 Presentation Link: https://docs.google.com/presentation/d/1x-V11GEpDhT_He9F_i_sCGgFS5bYIn6fR_zejBmfhHY/edit?pli=1#slide=id.g3165b6f0ddb_1_6
+Report link: https://docs.google.com/document/d/1Gt9DFpPnLZ_plhmB1jaS_AIZLM2MmHsbmqR9YxZozKc/edit?tab=t.0#heading=h.l1n73uq6q8rt
